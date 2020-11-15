@@ -9,12 +9,12 @@ VigaAproximada = 1050 # medida aproximada
 #Se obtiene el error absoluto con la formula
 #Error Absoluto = |(Valor Real - Valor aproximado)|
 EA = abs(viga - vigaAproximada)
-print('El error absoluto es {EA}')
+print("El error absoluto es: ", EA)
 
 #Obtenemos el error relativo
 ER = EA / abs(viga)
-print('El Error relativo es {ER}')
+print("El Error relativo es:", ER)
 
 #Obtenemos el error porcentual
 ERP = ER *100
-print('El error Relativo Porcentual es {ERP}')
+print("El error Relativo Porcentual es", ERP)
