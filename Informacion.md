@@ -7,6 +7,7 @@ En este repositorio encontrarás los ejemplos y problemas necesarios para cursar
 ## ¿Qué necesitas? :memo:
 Necesitas un entorno donde puedas escribir, compilar y ejecutar tus códigos.
 Si no quieres descargar nada en tu computadora puedes usar:
+
 -Google Colab:  es un entorno gratuito de Jupyter Notebook que no requiere configuración y que se ejecuta completamente en la nube. 
     _Chécalo aquí: https://colab.research.google.com/notebooks/intro.ipynb <-_
 
@@ -14,6 +15,7 @@ Si no quieres descargar nada en tu computadora puedes usar:
     _Chécalo aquí: https://www.programiz.com/python-programming/online-compiler/ <-_
     
 Si puedes (y quieres) descargar un IDE en tu ordenador te recomiendo los siguientes:
+
 -Spyder: Es un IDE multiplataforma (Windows, Linux, MacOS) a través de Anaconda. Tiene librerías precargadas por lo que no tendrás problemas al ejecutar cualquiera de los códigos de este repositorio.
     _Página oficial de Anaconda (al descargar Anaconda Navigator también incluirá Jupiter Notebook): https://www.anaconda.com/ <-_
 
