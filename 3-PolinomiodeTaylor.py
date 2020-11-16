@@ -2,7 +2,7 @@ from math import cos
 
 pi=3.1416
 VR=cos(pi)
-VA=1/(pi)**2/2+(pi)**4/24 #Polinomio calculado a mano xd
+VA=1/(pi)**2/2+(pi)**4/24 #Sustitución de las x del polinomio calculado a mano xd
 
 print("Valor real: ", VR)
 print("Valor aproximado: ", VA)
