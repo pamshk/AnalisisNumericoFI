@@ -12,3 +12,4 @@ plt.plot(x,fo,label='Función original f(x)')
 plt.grid(bool)
 plt.legend()
 plt.show()
+
